@@ -1,0 +1,22 @@
+{
+  "name": "tienda",
+  "version": "1.0.0",
+  "description": "Ecommerce app with React and redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaume11/ReactConRedux.git"
+  },
+  "author": "Evarist Jaume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaume11/ReactConRedux/issues"
+  },
+  "homepage": "https://github.com/jaume11/ReactConRedux#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
